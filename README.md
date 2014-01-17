@@ -1,0 +1,2 @@
+bug-extension-module-generics
+=============================
