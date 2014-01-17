@@ -1,0 +1,5 @@
+moduleName=module1
+moduleVersion=0.1-SNAPSHOT
+extensionClasses=com.github.mperry.ListExtension
+staticExtensionClasses=
+
