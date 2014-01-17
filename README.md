@@ -8,3 +8,5 @@ Using:
 * Groovy 2.1.9
 * Gradle 1.10
 * Java 1.7.0_45
+
+Issue is: http://jira.codehaus.org/browse/GROOVY-6525
